@@ -3,6 +3,8 @@ A small program to transcribe the recorded audio into text using Google Speech A
 
 Created via https://codelabs.developers.google.com/codelabs/cloud-speech-text-node#5
 
+Mic recording library - https://github.com/leon3s/node-mic-record
+
 ### Windows needs the following env. variable saved in System envs:
 GOOGLE_APPLICATION_CREDENTIALS="<Drive>:\<project_path>\key.json"
 
